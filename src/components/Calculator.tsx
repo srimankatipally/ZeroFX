@@ -269,7 +269,7 @@ import { useData } from '../context/USDdata';
 const Calculator = () => {
   const [amount, setAmount] = useState<string>('');
   const { exchangeRate, isLoading, error } = useData();
-  const fixedFee = 4.99;
+  const fixedFee = 2.99;
 
   const calculateAmounts = () => {
     const usdAmount = parseFloat(amount) || 0;

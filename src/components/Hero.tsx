@@ -125,7 +125,7 @@ const Hero = () => {
                     </div>
                     <div className="flex justify-between text-gray-300">
                       <span>Transfer Fee:</span>
-                      <span className="text-white">$4.99</span>
+                      <span className="text-white">$2.99</span>
                     </div>
                     <div className="flex justify-between text-gray-300">
                       <span>Transfer Time:</span>
