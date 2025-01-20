@@ -80,7 +80,7 @@ const Hero = () => {
               <span className="text-blue-500"> Zero Forex Markup!</span>
             </h1>
             <p className="mt-6 text-xl text-gray-300 animate__animated animate__fadeInLeft animate__delay-1s">
-              With Fixed Fee of 4.99$
+              With Fixed Fee of 2.99$
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4 animate__animated animate__fadeInUp animate__delay-2s">
               <a
