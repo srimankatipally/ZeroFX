@@ -7,10 +7,12 @@ import Security from '../components/Security';
 import FAQ from '../components/FAQ';
 import Waitlist from '../components/Waitlist';
 import Footer from '../components/Footer';
+import WaitlistPopup from '@/components/WaitlistPopup';
 
 const Index = () => {
   return (
     <div className="min-h-screen bg-white">
+      <WaitlistPopup />
       <Navbar />
       <Hero />
       <Calculator />
