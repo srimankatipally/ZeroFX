@@ -12,7 +12,7 @@ import WaitlistPopup from '@/components/WaitlistPopup';
 const Index = () => {
   return (
     <div className="min-h-screen bg-white">
-      <WaitlistPopup />
+{/*       <WaitlistPopup /> */}
       <Navbar />
       <Hero />
       <Calculator />
