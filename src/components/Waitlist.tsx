@@ -132,7 +132,7 @@ const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
 
     toast({
       title: "Successfully joined waitlist!",
-      description: "You'll receive a $30 early sign-up bonus after our service goes live.",
+      description: "You'll receive a mail we are live",
       duration: 5000,
     });
 
